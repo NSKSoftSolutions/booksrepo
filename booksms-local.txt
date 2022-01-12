@@ -1,2 +1,0 @@
-book-book.id=1
-book-book.name=SajjadBooks
